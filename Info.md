@@ -1,7 +1,0 @@
-- 👋 Hi, I’m Diogo Marques
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Networking
-- 💞️ I’m looking to collaborate on Pentesting jobs
-- 📫 How to reach me: 
-  - Fiverr - Zlenderzinho
-  - Discord - M I R A N H A#1396
